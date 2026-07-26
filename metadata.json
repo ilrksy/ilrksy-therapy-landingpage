@@ -1,0 +1,6 @@
+{
+  "name": "Vibrant Wellness",
+  "description": "A single-page hero landing page for holistic wellness brand Vibrant Wellness with liquid glass UI and background video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
